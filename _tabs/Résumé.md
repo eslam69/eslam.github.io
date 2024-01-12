@@ -15,7 +15,7 @@ order: 4
 ### B.S. in Systems & Biomedical Engineering
 **Cairo University** | Cairo, Egypt | 2016 - 2021
 <!-- - Graduation Year: 2021 -->
-- CGPA: 3.44/4 (Very Good)
+- CGPA: 3.4/4 (Very Good)
 - Graduation Project Grade: Excellent
 <!-- - Overall Grade: Very Good -->
 - Related Courses: Data structures & Algorithms, Database Design, Computer Architecture, Software Engineering, Computer Networking, Image processing, Computer Vision, IoT, Probability & Statistics, Machine Learning, Linear Algebra, Calculus, DSP, Embedded Systems, Computer Graphics, Control, Microelectronics.
